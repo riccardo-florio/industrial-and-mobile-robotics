@@ -1,1 +1,1 @@
-# Industrial-and-mobile-robotics
+# Industrial and mobile robotics
